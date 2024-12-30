@@ -4,4 +4,5 @@
  https://alexprogramador.github.io/Materiais-HTML-CSS/ex002/  e
  https://alexprogramador.github.io/Materiais-HTML-CSS/ex008/ e
  https://alexprogramador.github.io/Materiais-HTML-CSS/ex022/fundo001.html e
- https://alexprogramador.github.io/Materiais-HTML-CSS/ex026/mq001/index 
+ https://alexprogramador.github.io/Materiais-HTML-CSS/ex026/mq001/index e 
+ https://alexprogramador.github.io/Materiais-HTML-CSS/ex023/tabela001
